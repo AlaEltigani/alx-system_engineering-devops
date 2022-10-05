@@ -1,2 +1,2 @@
 #!/bin/bash
-type /tmp/i amafile
+type i amafile/tmp/
